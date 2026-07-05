@@ -31,7 +31,7 @@ jobs:
           
       - name: commit and push changes
         run: |
-          git config --local user.name "GitHub Action"
-          git config --local user.email "action@github.com"
+          git config --local user.name "Webtv+Bot4570"
+          git config --local user.email "webtv+bot4570.example.com"
           git add -A
           git diff-index --quiet HEAD || (git commit -a -m "😀 updated IPTV Links" && git push)
