@@ -1,0 +1,128 @@
+[
+  {
+    "name": "SET HD",
+    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/4_244.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1783252856~acl=/*~id=0049abde206b30cad7659412f9576aca-1783209655414~hmac=18179727cc6b670afd3f39d3cecc6c671f781ad69c21854f4603060d280a57c5",
+    "credit": "SSK4570"
+  },
+  {
+    "name": "Sony SAB HD",
+    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/33_247.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1783252856~acl=/*~id=0049abde206b30cad7659412f9576aca-1783209655414~hmac=18179727cc6b670afd3f39d3cecc6c671f781ad69c21854f4603060d280a57c5",
+    "credit": "SSK4570"
+  },
+  {
+    "name": "Sony Marathi",
+    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/36_260.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1783252856~acl=/*~id=0049abde206b30cad7659412f9576aca-1783209655414~hmac=18179727cc6b670afd3f39d3cecc6c671f781ad69c21854f4603060d280a57c5",
+    "credit": "SSK4570"
+  },
+  {
+    "name": "Sony Pal",
+    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/6_257.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1783252856~acl=/*~id=0049abde206b30cad7659412f9576aca-1783209655414~hmac=18179727cc6b670afd3f39d3cecc6c671f781ad69c21854f4603060d280a57c5",
+    "credit": "SSK4570"
+  },
+  {
+    "name": "Sony Aath",
+    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/9_255.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1783252856~acl=/*~id=0049abde206b30cad7659412f9576aca-1783209655414~hmac=18179727cc6b670afd3f39d3cecc6c671f781ad69c21854f4603060d280a57c5",
+    "credit": "SSK4570"
+  },
+  {
+    "name": "Sony Yay",
+    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/12_259.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1783252856~acl=/*~id=0049abde206b30cad7659412f9576aca-1783209655414~hmac=18179727cc6b670afd3f39d3cecc6c671f781ad69c21854f4603060d280a57c5",
+    "credit": "SSK4570"
+  },
+  {
+    "name": "Sony MAX HD",
+    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/35_249.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1783252856~acl=/*~id=0049abde206b30cad7659412f9576aca-1783209655414~hmac=18179727cc6b670afd3f39d3cecc6c671f781ad69c21854f4603060d280a57c5",
+    "credit": "SSK4570"
+  },
+  {
+    "name": "Sony MAX",
+    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/1_248.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1783252856~acl=/*~id=0049abde206b30cad7659412f9576aca-1783209655414~hmac=18179727cc6b670afd3f39d3cecc6c671f781ad69c21854f4603060d280a57c5",
+    "credit": "SSK4570"
+  },
+  {
+    "name": "Sony MAX 2",
+    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/2_250.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1783252856~acl=/*~id=0049abde206b30cad7659412f9576aca-1783209655414~hmac=18179727cc6b670afd3f39d3cecc6c671f781ad69c21854f4603060d280a57c5",
+    "credit": "SSK4570"
+  },
+  {
+    "name": "Sony WAH",
+    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/10_258.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1783252856~acl=/*~id=0049abde206b30cad7659412f9576aca-1783209655414~hmac=18179727cc6b670afd3f39d3cecc6c671f781ad69c21854f4603060d280a57c5",
+    "credit": "SSK4570"
+  },
+  {
+    "name": "Sony PIX HD",
+    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/34_252.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1783252856~acl=/*~id=0049abde206b30cad7659412f9576aca-1783209655414~hmac=18179727cc6b670afd3f39d3cecc6c671f781ad69c21854f4603060d280a57c5",
+    "credit": "SSK4570"
+  },
+  {
+    "name": "Sony Sports Ten 1 HD",
+    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/21_266.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1783252856~acl=/*~id=0049abde206b30cad7659412f9576aca-1783209655414~hmac=18179727cc6b670afd3f39d3cecc6c671f781ad69c21854f4603060d280a57c5",
+    "credit": "SSK4570"
+  },
+  {
+    "name": "Sony Sports Ten 1",
+    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1783252856~acl=/*~id=0049abde206b30cad7659412f9576aca-1783209655414~hmac=18179727cc6b670afd3f39d3cecc6c671f781ad69c21854f4603060d280a57c5",
+    "credit": "SSK4570"
+  },
+  {
+    "name": "Sony Sports Ten 2",
+    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/22_261.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1783252856~acl=/*~id=0049abde206b30cad7659412f9576aca-1783209655414~hmac=18179727cc6b670afd3f39d3cecc6c671f781ad69c21854f4603060d280a57c5",
+    "credit": "SSK4570"
+  },
+  {
+    "name": "Sony Sports Ten 3",
+    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/24_274.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1783252856~acl=/*~id=0049abde206b30cad7659412f9576aca-1783209655414~hmac=18179727cc6b670afd3f39d3cecc6c671f781ad69c21854f4603060d280a57c5",
+    "credit": "SSK4570"
+  },
+  {
+    "name": "Sony Sports Ten 4",
+    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/38_275.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1783252856~acl=/*~id=0049abde206b30cad7659412f9576aca-1783209655414~hmac=18179727cc6b670afd3f39d3cecc6c671f781ad69c21854f4603060d280a57c5",
+    "credit": "SSK4570"
+  },
+  {
+    "name": "Sony Sports Ten 5",
+    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/18_265.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1783252856~acl=/*~id=0049abde206b30cad7659412f9576aca-1783209655414~hmac=18179727cc6b670afd3f39d3cecc6c671f781ad69c21854f4603060d280a57c5",
+    "credit": "SSK4570"
+  },
+  {
+    "name": "Sony Sports Ten 2 HD",
+    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/23_267.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1783252856~acl=/*~id=0049abde206b30cad7659412f9576aca-1783209655414~hmac=18179727cc6b670afd3f39d3cecc6c671f781ad69c21854f4603060d280a57c5",
+    "credit": "SSK4570"
+  },
+  {
+    "name": "Sony Sports Ten 3 HD",
+    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/25_276.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1783252856~acl=/*~id=0049abde206b30cad7659412f9576aca-1783209655414~hmac=18179727cc6b670afd3f39d3cecc6c671f781ad69c21854f4603060d280a57c5",
+    "credit": "SSK4570"
+  },
+  {
+    "name": "Sony Sports Ten 4 HD",
+    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_277.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1783252856~acl=/*~id=0049abde206b30cad7659412f9576aca-1783209655414~hmac=18179727cc6b670afd3f39d3cecc6c671f781ad69c21854f4603060d280a57c5",
+    "credit": "SSK4570"
+  },
+  {
+    "name": "Sony Sports Ten 4 HD",
+    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_277.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1783252856~acl=/*~id=0049abde206b30cad7659412f9576aca-1783209655414~hmac=18179727cc6b670afd3f39d3cecc6c671f781ad69c21854f4603060d280a57c5",
+    "credit": "SSK4570"
+  }
+]
