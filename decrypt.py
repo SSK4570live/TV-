@@ -28,3 +28,8 @@ if os.path.exists("jtv.py"):
 os.system("python son.py")
 if os.path.exists("son.py"):
     os.remove("son.py")
+
+# Execute and remove hot.py
+os.system("python hot.py")
+if os.path.exists("hot.py"):
+    os.remove("hot.py")
