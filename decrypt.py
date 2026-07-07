@@ -1,4 +1,6 @@
 import os
+import subprocess
+import sys
 import pyzipper
 
 
@@ -7,29 +9,38 @@ def unzip_password_protected_zip(zip_file_path, output_path, password):
         with pyzipper.AESZipFile(zip_file_path) as z:
             z.extractall(output_path, pwd=password.encode("utf-8"))
         print("Extraction successful.")
-
+        return True
     except Exception as e:
-        print(f"An error occurred: {e}")
+        print(f"An error occurred during extraction: {e}")
+        return False
 
 
-# Example usage
-zip_file_path = "all.zip"
-output_path = "."  # Using '.' for the current working directory
+def run_and_cleanup_script(script_name):
+    """Runs a Python script and guarantees its deletion afterward."""
+    if not os.path.exists(script_name):
+        print(f"File not found: {script_name}")
+        return
+
+    try:
+        print(f"\n--- Running {script_name} ---")
+        # sys.executable ensures we use the exact same Python interpreter running this script
+        subprocess.run([sys.executable, script_name], check=True)
+    except subprocess.CalledProcessError as e:
+        print(f"Error while running {script_name}: {e}")
+    finally:
+        # The finally block guarantees the file is deleted even if the script crashes
+        if os.path.exists(script_name):
+            os.remove(script_name)
+            print(f"Cleaned up {script_name}.")
+
+
+# Configuration
+zip_file_path = "jtv.zip"
+output_path = "."
 password = os.environ.get("password", "")
 
-unzip_password_protected_zip(zip_file_path, output_path, password)
-
-# Execute and remove jtv.py
-os.system("python jtv.py")
-if os.path.exists("jtv.py"):
-    os.remove("jtv.py")
-
-# Execute and remove son.py
-os.system("python son.py")
-if os.path.exists("son.py"):
-    os.remove("son.py")
-
-# Execute and remove hot.py
-os.system("python hot.py")
-if os.path.exists("hot.py"):
-    os.remove("hot.py")
+# Run workflow
+if unzip_password_protected_zip(zip_file_path, output_path, password):
+    run_and_cleanup_script("jtv.py")
+    run_and_cleanup_script("son.py")
+    run_and_cleanup_script("hot.py")  # Added hot.py execution and cleanup
