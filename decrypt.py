@@ -35,7 +35,7 @@ def run_and_cleanup_script(script_name):
 
 
 # Configuration
-zip_file_path = "jtv.zip"
+zip_file_path = "all.zip"
 output_path = "."
 password = os.environ.get("password", "")
 
