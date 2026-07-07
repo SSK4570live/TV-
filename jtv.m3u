@@ -8022,42 +8022,42 @@ https://livetv.hotstar.com/mp2/gec-india-1540065791/8bb5cd7a8e274186977473a6771d
 #EXTVLCOPT:http-user-agent=
 https://livetv-push.hotstar.com/dash/live/2002471/ssselecthd2wv/master.mpd
 
-#EXTINF:-1 tvg-id="1000009276" group-title="Sports" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/21_266.png",Sony Sports Ten 1 HD
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 1.in" group-title="Sports" tvg-logo="https://i.postimg.cc/k5y9R4vH/sony-ten-1.webp",Sony TEN 1 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1783425658~acl=/*~id=75678cb838f6c000187b8f9ecf693b3b-1783382456238~hmac=26b26f39491fa92eee4c89b786e45fdaf2e1ec31e6e08fec2768239c28383c2d
+https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/son/Sony%20TEN%201%20SD.m3u8
 
-#EXTINF:-1 tvg-id="1000009280" group-title="Sports" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png",Sony Sports Ten 1
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 1 HD.in" group-title="Sports" tvg-logo="https://i.postimg.cc/h4knM9Rr/sonysportsten1hd.webp",Sony TEN 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1783425658~acl=/*~id=75678cb838f6c000187b8f9ecf693b3b-1783382456238~hmac=26b26f39491fa92eee4c89b786e45fdaf2e1ec31e6e08fec2768239c28383c2d
+https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/son/Sony%20TEN%201%20HD.m3u8
 
-#EXTINF:-1 tvg-id="1000009279" group-title="Sports" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/22_261.png",Sony Sports Ten 2
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 2.in" group-title="Sports" tvg-logo="https://i.postimg.cc/027s4b8q/sonysportsten2.webp",Sony TEN 2 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1783425658~acl=/*~id=75678cb838f6c000187b8f9ecf693b3b-1783382456238~hmac=26b26f39491fa92eee4c89b786e45fdaf2e1ec31e6e08fec2768239c28383c2d
+https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/son/Sony%20TEN%202%20SD.m3u8
 
-#EXTINF:-1 tvg-id="1000009283" group-title="Sports" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/24_274.png",Sony Sports Ten 3
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 2 HD.in" group-title="Sports" tvg-logo="https://i.postimg.cc/zG5rY8BH/sonysportsten2hd.webp",Sony TEN 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1783425658~acl=/*~id=75678cb838f6c000187b8f9ecf693b3b-1783382456238~hmac=26b26f39491fa92eee4c89b786e45fdaf2e1ec31e6e08fec2768239c28383c2d
+https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/son/Sony%20TEN%202%20HD.m3u8
 
-#EXTINF:-1 tvg-id="1000119187" group-title="Sports" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/38_275.png",Sony Sports Ten 4
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 3.in" group-title="Sports" tvg-logo="https://i.postimg.cc/XY80VmGH/sonysportsten3.webp",Sony TEN 3 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1783425658~acl=/*~id=75678cb838f6c000187b8f9ecf693b3b-1783382456238~hmac=26b26f39491fa92eee4c89b786e45fdaf2e1ec31e6e08fec2768239c28383c2d
+https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/son/Sony%20TEN%203%20SD.m3u8
 
-#EXTINF:-1 tvg-id="1000009281" group-title="Sports" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/18_265.png",Sony Sports Ten 5
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD.in" group-title="Sports" tvg-logo="https://i.postimg.cc/xd1Vq5L0/sonysportsten3hd.webp",Sony TEN 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1783425658~acl=/*~id=75678cb838f6c000187b8f9ecf693b3b-1783382456238~hmac=26b26f39491fa92eee4c89b786e45fdaf2e1ec31e6e08fec2768239c28383c2d
+https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/son/Sony%20TEN%203%20HD.m3u8
 
-#EXTINF:-1 tvg-id="1000009277" group-title="Sports" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/23_267.png",Sony Sports Ten 2 HD
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 4.in" group-title="Sports" tvg-logo="https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",Sony TEN 4 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1783425658~acl=/*~id=75678cb838f6c000187b8f9ecf693b3b-1783382456238~hmac=26b26f39491fa92eee4c89b786e45fdaf2e1ec31e6e08fec2768239c28383c2d
+https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/son/Sony%20TEN%204%20SD.m3u8
 
-#EXTINF:-1 tvg-id="1000009278" group-title="Sports" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/25_276.png",Sony Sports Ten 3 HD
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 4 HD.in" group-title="Sports" tvg-logo="https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",Sony TEN 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1783425658~acl=/*~id=75678cb838f6c000187b8f9ecf693b3b-1783382456238~hmac=26b26f39491fa92eee4c89b786e45fdaf2e1ec31e6e08fec2768239c28383c2d
+https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/son/Sony%20TEN%204%20HD.m3u8
 
-#EXTINF:-1 tvg-id="1000119186" group-title="Sports" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_277.png",Sony Sports Ten 4 HD
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 5.in" group-title="Sports" tvg-logo="https://i.postimg.cc/Mpjks892/sony-sports-ten-5.png",Sony TEN 5 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1783425658~acl=/*~id=75678cb838f6c000187b8f9ecf693b3b-1783382456238~hmac=26b26f39491fa92eee4c89b786e45fdaf2e1ec31e6e08fec2768239c28383c2d
+https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/son/Sony%20TEN%205%20SD.m3u8
 
-#EXTINF:-1 tvg-id="1000009275" group-title="Sports" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_277.png",Sony Sports Ten 4 HD
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD.in" group-title="Sports" tvg-logo="https://i.postimg.cc/CKrT884b/sonysportsten5hd.webp",Sony TEN 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1783425658~acl=/*~id=75678cb838f6c000187b8f9ecf693b3b-1783382456238~hmac=26b26f39491fa92eee4c89b786e45fdaf2e1ec31e6e08fec2768239c28383c2d
+https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/son/Sony%20TEN%205%20HD.m3u8
