@@ -16,13 +16,13 @@ def unzip_password_protected_zip(zip_file_path, output_path, password):
 
 
 def run_and_cleanup_script(script_name):
-    """Runs a Python script and guarantees its deletion afterward."""
+    """Runs a python script and ensures it gets deleted afterward."""
     if not os.path.exists(script_name):
         print(f"File not found: {script_name}")
         return
 
     try:
-        print(f"\n--- Running {script_name} ---")
+        print(f"Running {script_name}...")
         # sys.executable ensures we use the exact same Python interpreter running this script
         subprocess.run([sys.executable, script_name], check=True)
     except subprocess.CalledProcessError as e:
@@ -43,4 +43,3 @@ password = os.environ.get("password", "")
 if unzip_password_protected_zip(zip_file_path, output_path, password):
     run_and_cleanup_script("jtv.py")
     run_and_cleanup_script("son.py")
-    run_and_cleanup_script("hot.py")  # Added hot.py execution and cleanup
