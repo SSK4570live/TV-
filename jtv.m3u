@@ -19,7 +19,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsHD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0172b8cd13ed59349a05aadc58ae11e0:e4ab7836617767a2a6e7aaae17fad2b6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1783857674~exp=1783879274~acl=/*~hmac=382ad8ae6c89a5a2baf74f7851c415cfeeaff0bc67471f154a5a85e7fb5e66df"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1783867214~exp=1783888814~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=cb9ce1a871b58f98a2b1261586d1eeda5d5aa6aa65eafce9a05c3e78a8aaa53b"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="151" group-title="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png",Movies Now HD
