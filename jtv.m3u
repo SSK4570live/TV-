@@ -19,7 +19,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsHD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0172b8cd13ed59349a05aadc58ae11e0:e4ab7836617767a2a6e7aaae17fad2b6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1785594314~exp=1785615914~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=a04e9f8f48b3c876d82816cf5955b889b901b4b4639d74b3324bce425adf29d6"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1785616210~exp=1785637810~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=308228085902caef0b26590a592d372eaf3e9e34aee10562e75d00f767871579"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="151" group-title="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png",Movies Now HD
@@ -4583,7 +4583,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Rongeen_TV_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67e52f4bdcfc525898be0446feb7f185:8cf5c24b168105bca24b358eb05f6df4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1785597619~exp=1785619219~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=39a69c91cefdb05c88614530656858332c7161d9aa96f62e5a17adcff52e4491"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1785619228~exp=1785640828~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=28c4f7a6e70078b0d55d938be90e0c04a20eefc9e049ac2a4c40cbf78871da9a"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1669" group-title="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png",Sun Bangla
