@@ -30,7 +30,7 @@
         "key": "e4ab7836617767a2a6e7aaae17fad2b6",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png",
         "clearkey": "0172b8cd13ed59349a05aadc58ae11e0:e4ab7836617767a2a6e7aaae17fad2b6",
-        "cookie": "__hdnea__=st=1785873638~exp=1785895238~acl=/*~hmac=4af7f36d2394132402ae0b2cb83c8f96b61d5b3df0c1fb938bfeba4c9d302bd8"
+        "cookie": "__hdnea__=st=1785886235~exp=1785907835~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=f78a3fd26e41cca195108d29d65014b0c121473bd8269fe6143930e35678d007"
     },
     {
         "name": "Movies Now HD",
@@ -646,7 +646,7 @@
         "key": "476f813d8651987fc1b4074693676fd8",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmolCinema.png",
         "clearkey": "8ab0674eba3f5adf96a9b65a6e82d208:476f813d8651987fc1b4074693676fd8",
-        "cookie": "__hdnea__=st=1785873638~exp=1785895238~acl=/*~hmac=4af7f36d2394132402ae0b2cb83c8f96b61d5b3df0c1fb938bfeba4c9d302bd8"
+        "cookie": "__hdnea__=st=1785886238~exp=1785907838~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=4be9679869ff86a1d0af5acaaf7cd59da8e1013dedd01116377d9346f6c04b01"
     },
     {
         "name": "J Movies",
@@ -1537,7 +1537,7 @@
         "key": "a1862a47f6db0af137d0c69b3cb422bb",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png",
         "clearkey": "39aa887ebbc35db6bd10217aba5e016b:a1862a47f6db0af137d0c69b3cb422bb",
-        "cookie": "__hdnea__=st=1785864013~exp=1785885613~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=526205a1499d7fbef25bd740b679119173a3562c6652180aa1ac15ad1bce3ae7"
+        "cookie": "__hdnea__=st=1785886806~exp=1785908406~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=7268f60f85a2278d53ceaba0b20531e94568e782b43815b3330fccc3b0376af3"
     },
     {
         "name": "Kaumudy TV",
@@ -3627,7 +3627,7 @@
         "key": "f84348219837769feb5a26a7b1cd31dc",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthHin.png",
         "clearkey": "f45e69507f0f5aa1a6e82374efb0af25:f84348219837769feb5a26a7b1cd31dc",
-        "cookie": "__hdnea__=st=1785864925~exp=1785886525~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=489e5d93b3557cd4bb4cad97fb2d7f66de4ece668e09513bb466352fa1a6a09d"
+        "cookie": "__hdnea__=st=1785886808~exp=1785908408~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=233c06070c517397122030c80d99a392721faec799db18ce660e63f032a5c0c7"
     },
     {
         "name": "Puthu Yugam",
@@ -5959,7 +5959,7 @@
         "key": "c2677c874886e78d24b3fb656c5734e0",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png",
         "clearkey": "45fc661aa1af51c98950c43329391d18:c2677c874886e78d24b3fb656c5734e0",
-        "cookie": "__hdnea__=st=1785865817~exp=1785887417~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=5cbac19b2dbe078d0320ce567a1dcd635efb6c16c22722fa1b5d5a71d71d522a"
+        "cookie": "__hdnea__=st=1785887439~exp=1785909039~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=acc619b7836bd6ca4c7662ae74682a04368ac5ff4f42b617227f8a7ffb2b4919"
     },
     {
         "name": "National Geographic HD",
@@ -5970,7 +5970,7 @@
         "key": "179f796bdf11b750bebd469a3aeae1d0",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png",
         "clearkey": "4b006dd7965e5777a7fa33dd636c2e5d:179f796bdf11b750bebd469a3aeae1d0",
-        "cookie": "__hdnea__=st=1785865819~exp=1785887419~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=8f6fa98c1bcd87dc2b6ae0f8e71135e20d933941a433f542dcddc9007cebc736"
+        "cookie": "__hdnea__=st=1785887441~exp=1785909041~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=0ff83249e2a668df55f0a102a79515852f233d39032c7777e7d8516567ab0a57"
     },
     {
         "name": "RT India",
@@ -7202,7 +7202,7 @@
         "key": "8cf5c24b168105bca24b358eb05f6df4",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AndXploreHD.png",
         "clearkey": "67e52f4bdcfc525898be0446feb7f185:8cf5c24b168105bca24b358eb05f6df4",
-        "cookie": "__hdnea__=st=1785873638~exp=1785895238~acl=/*~hmac=4af7f36d2394132402ae0b2cb83c8f96b61d5b3df0c1fb938bfeba4c9d302bd8"
+        "cookie": "__hdnea__=st=1785886813~exp=1785908413~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=3706bfac168618e2be2b37643b4cc87defd6a2a275e77b0770ed8a1822203eec"
     },
     {
         "name": "Sun Bangla",
